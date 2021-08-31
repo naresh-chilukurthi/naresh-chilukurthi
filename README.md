@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-chilukurthi&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-chilukurthi" /> </p>
 
-- 💬 Ask me about **Configuration management systems,Linux**
+- 💬 Ask me about **Configuration management systems,Linux,Docker,Systems,Devops,server management**
 
 - 📫 How to reach me **chilakur@usc.edu**
 
